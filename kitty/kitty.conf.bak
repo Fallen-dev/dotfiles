@@ -1,0 +1,26 @@
+font_family Hack
+bold_font auto
+italic_font auto
+bold_italic_font auto
+
+font_size 12
+
+cursor_stop_blinking_after 0
+
+url_style straight
+
+open_url_with falkon
+
+enable_audio_bell no
+
+remember_window_size no
+initial_window_width 700
+initial_window_height 400
+
+window_margin_width 4
+
+tab_bar_edge top
+tab_bar_margin_width 3
+tab_bar_margin_height 1.5
+tab_bar_style powerline
+tab_bar_align right
